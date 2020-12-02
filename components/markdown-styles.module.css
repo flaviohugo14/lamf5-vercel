@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.markdown {
+  @apply text-lg leading-relaxed;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  font-size: 21px;
+}
+
+.markdown p,
+.markdown ul,
+.markdown ol,
+.markdown blockquote {
+  @apply my-6;
+}
+
+.markdown a {
+  color: #8359c7;
+  text-decoration: underline;
+}
+
+.markdown ul {
+  @apply list-disc;
+  padding-left: 30px;
+}
+
+.markdown h2 {
+  @apply text-3xl mt-12 mb-4 leading-snug;
+}
+
+.markdown h3 {
+  @apply text-2xl mt-8 mb-4 leading-snug;
+}
