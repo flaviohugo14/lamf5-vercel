@@ -14,6 +14,12 @@ export function getPostBySlug(slug: string, fields: string[] = []) {
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const { data, content } = matter(fileContents)
 
+  const baseUrl = process.env.NODE_ENV === 'development'
+  ? 'http://localhost:3000'
+  : '';
+
+  const thumbnailUrl = `http://localhost:3000/api/thumbnail.png?title=${data.title}`;
+
   type Items = {
     [key: string]: string
   }
@@ -27,6 +33,10 @@ export function getPostBySlug(slug: string, fields: string[] = []) {
     }
     if (field === 'content') {
       items[field] = content
+    }
+
+    if (field === 'thumbnailUrl') {
+      items[field] = thumbnailUrl
     }
 
     if (data[field]) {
