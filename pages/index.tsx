@@ -20,6 +20,38 @@ const Index = ({ allPosts }: Props) => {
       <Layout>
         <Head>
           <title>LAMF5 | Blog</title>
+          <link
+            rel="apple-touch-icon"
+            sizes="180x180"
+            href="/assets/blog/logo/logo.png"
+          />
+          <link
+            rel="icon"
+            type="image/png"
+            sizes="32x32"
+            href="/assets/blog/logo/logo.png"
+          />
+          <link
+            rel="icon"
+            type="image/png"
+            sizes="16x16"
+            href="/assets/blog/logo/logo.png"
+          />
+          <link rel="manifest" href="/favicon/site.webmanifest" />
+          <link
+            rel="mask-icon"
+            href="/assets/blog/logo/logo.png"
+            color="#FFFFFF"
+          />
+          <link rel="shortcut icon" href="/assets/blog/logo/logo.png" />
+          <meta name="msapplication-TileColor" content="#FFFFFF" />
+          <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
+          <meta name="theme-color" content="#FFFFFF" />
+          <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
+          <meta
+            name="description"
+            content="Blog da Liga Acadêmica de Mercado Financeiro da UFV"
+          />
         </Head>
         <Container>
           <Intro />

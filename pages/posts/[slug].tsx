@@ -36,7 +36,23 @@ const Post = ({ post, morePosts, preview }: Props) => {
                 <title>
                   {post.title}
                 </title>
-                <meta property="og:image" content={post.ogImage.url} />
+                <meta name="description" content={post.excerpt} />
+
+                <meta property="og:site_name" content="Blog da LAMF5" />
+
+                <meta property="og:title" content={post.title} />
+                <meta property="og:description" content={post.excerpt} />
+
+                <meta property="og:image" content={post.thumbnailUrl} />
+                <meta property="og:image:type" content="image/png" />
+
+                <meta property="og:image:width" content="1200" />
+                <meta property="og:image:height" content="630" />
+
+                <meta name="twitter:card" content="summary_large_image" />
+                <meta name="twitter:title" content={post.title} />
+                <meta name="twitter:description" content={post.excerpt} />
+                <meta name="twitter:image" content={post.thumbnailUrl} />
               </Head>
               <PostHeader
                 title={post.title}
@@ -44,7 +60,12 @@ const Post = ({ post, morePosts, preview }: Props) => {
                 date={post.date}
                 author={post.author}
               />
-              <PostBody content={post.content} />
+              <PostBody
+                title={post.title}
+                thumbnailUrl={post.thumbnailUrl}
+                excerpt={post.excerpt}
+                content={post.content}
+              />
             </article>
           </>
         )}
@@ -68,8 +89,10 @@ export async function getStaticProps({ params }: Params) {
     "slug",
     "author",
     "content",
+    "excerpt",
     "ogImage",
     "coverImage",
+    "thumbnailUrl",
   ]);
   const content = await markdownToHtml(post.content || "");
 

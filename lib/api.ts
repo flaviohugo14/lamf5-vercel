@@ -16,9 +16,9 @@ export function getPostBySlug(slug: string, fields: string[] = []) {
 
   const baseUrl = process.env.NODE_ENV === 'development'
   ? 'http://localhost:3000'
-  : '';
+  : 'https://lamf5.vercel.app';
 
-  const thumbnailUrl = `http://localhost:3000/api/thumbnail.png?title=${data.title}`;
+  const thumbnailUrl = `${baseUrl}/api/thumbnail.png?title=${data.title}`;
 
   type Items = {
     [key: string]: string

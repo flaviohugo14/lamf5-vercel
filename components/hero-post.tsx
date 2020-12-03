@@ -27,28 +27,9 @@ const HeroPost = ({
 
   return (
     <>
-      <Head>
-        <meta name="description" content={excerpt} />
-
-        <meta property="og:site_name" content="Blog da LAMF5" />
-
-        <meta property="og:title" content={title} />
-        <meta property="og:description" content={excerpt} />
-
-        <meta property="og:image" content={thumbnailUrl} />
-        <meta property="og:image:type" content="image/png" />
-
-        <meta property="og:image:width" content="1200" />
-        <meta property="og:image:height" content="630" />
-
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={title} />
-        <meta name="twitter:description" content={excerpt} />
-        <meta name="twitter:image" content={thumbnailUrl} />  
-      </Head>
       <section>
         <div className="mb-8 md:mb-16">
-          <CoverImage title={title} src={thumbnailUrl} slug={slug} />
+          <CoverImage title={title} src={coverImage} slug={slug} />
         </div>
         <div className="md:grid md:grid-cols-2 md:col-gap-16 lg:col-gap-8 mb-20 md:mb-28">
           <div>

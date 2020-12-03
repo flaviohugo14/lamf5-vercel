@@ -27,28 +27,9 @@ const PostPreview = ({
 
   return (
     <>
-      <Head>
-        <meta name="description" content={excerpt} />
-
-        <meta property="og:site_name" content="Blog da LAMF5" />
-
-        <meta property="og:title" content={title} />
-        <meta property="og:description" content={excerpt} />
-
-        <meta property="og:image" content={thumbnailUrl} />
-        <meta property="og:image:type" content="image/png" />
-
-        <meta property="og:image:width" content="1200" />
-        <meta property="og:image:height" content="630" />
-
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={title} />
-        <meta name="twitter:description" content={excerpt} />
-        <meta name="twitter:image" content={thumbnailUrl} />  
-      </Head>
       <div>
         <div className="mb-5">
-          <CoverImage slug={slug} title={title} src={thumbnailUrl} />
+          <CoverImage slug={slug} title={title} src={coverImage} />
         </div>
         <h3 className="text-3xl mb-3 leading-snug">
           <Link as={`/posts/${slug}`} href="/posts/[slug]">
