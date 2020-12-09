@@ -82,6 +82,14 @@ const About = () => {
             </div>
           </div>
 
+          <div className="presidencia">
+            <img src="/assets/blog/authors/kaio.jpeg" className="profile" alt="Maciel Maçal Neto" />
+            <div className="group">
+              <h1 className="aboutTitle">Diretoria de ensino</h1>
+              <p>Kaio Alves</p>
+            </div>
+          </div>
+
 
         </article>
       </Container>
