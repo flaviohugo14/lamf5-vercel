@@ -2,7 +2,7 @@
 title: 'Como acompanhar o mercado financeiro no dia a dia'
 excerpt: 'Se você tem interesse em acompanhar cotações de ativos e notícias do mercado financeiro, segue aqui várias dicas para um bom pontapé inicial nesse universo.'
 coverImage: '/assets/blog/como-acompanhar-o-mercado-no-dia-a-dia/dalbert.jpeg'
-date: '2020-04-16T05:35:07.322Z'
+date: '2020-06-17T05:35:07.322Z'
 author:
   name: Dalbert Gregório
   picture: '/assets/blog/authors/dalbert.jpeg'
