@@ -24,4 +24,4 @@ Referências:
 
 * MOLERO, Leonel; MELLO, Eduardo. Derivativos: Negociação e Precificação. 1 1. ed. São Paulo: Saint Poul Editora, 2018. 335 p. ISBN 9788580041408.
 
-* B3 (Brasil) (org.). Resumo das operações: Resumo dos mercados. [S. l.], 2020. Disponível em: [http://www.b3.com.br/pt_br/market-data-eindices/servicos-de-dados/market-data/consultas/mercado-dederivativos/resumo-das-operacoes/resumo-dos-mercados/.](http://www.b3.com.br/pt_br/market-data-eindices/servicos-de-dados/market-data/consultas/mercado-dederivativos/resumo-das-operacoes/resumo-dos-mercados/.) Acesso em: 1 set. 2020.
+* B3 (Brasil) (org.). Resumo das operações: Resumo dos mercados. [S. l.], 2020. Disponível em: [Link](http://www.b3.com.br/pt_br/market-data-eindices/servicos-de-dados/market-data/consultas/mercado-dederivativos/resumo-das-operacoes/resumo-dos-mercados/.) Acesso em: 1 set. 2020.

@@ -26,11 +26,11 @@ Por fim, para o leitor que deseja se aprofundar no assunto, fica a recomendaçã
 
 Fontes:
 
-* [http://www.b3.com.br/data/files/61/04/37/49/93E566103811B566AC094EA8/Regras%20de%20Pre-Abertura%20Pre-fechamento%20Fixing.pdf](http://www.b3.com.br/data/files/61/04/37/49/93E566103811B566AC094EA8/Regras%20de%20Pre-Abertura%20Pre-fechamento%20Fixing.pdf)
+* [Regras de pré-abertura...](http://www.b3.com.br/data/files/61/04/37/49/93E566103811B566AC094EA8/Regras%20de%20Pre-Abertura%20Pre-fechamento%20Fixing.pdf)
 
-* [http://www.b3.com.br/data/files/95/01/1E/CB/4DA296100FB88096AC094EA8/Tabela%20de%20Leiloes%20-%20Prazos.pdf](http://www.b3.com.br/data/files/95/01/1E/CB/4DA296100FB88096AC094EA8/Tabela%20de%20Leiloes%20-%20Prazos.pdf)
+* [Tabela de leilões à prazo...](http://www.b3.com.br/data/files/95/01/1E/CB/4DA296100FB88096AC094EA8/Tabela%20de%20Leiloes%20-%20Prazos.pdf)
 
-* [https://www.sunoresearch.com.br/artigos/leilao-de-acoes/](https://www.sunoresearch.com.br/artigos/leilao-de-acoes/)
+* [Leilão de ações](https://www.sunoresearch.com.br/artigos/leilao-de-acoes/)
 
 Autor: Kaio Alves.
 

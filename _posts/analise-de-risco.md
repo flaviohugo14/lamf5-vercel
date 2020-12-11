@@ -65,7 +65,7 @@ As agências de classificação transformaram incerteza em algo parecido com ris
 
 Acredito que, diante desse grande episódio de fracasso na análise de risco, e como ele quebrou economias no mundo inteiro, você deve estar querendo muito não cometer o mesmo o erro dessas agências e fazer muito bem o seu trabalho, para não se prejudicar em seus investimentos e nem induzir mais pessoas ao mesmo erro. Por isso, prepararei em breve um texto sobre quantificação de risco para você, leitor.
 
-¹ Medido em comparação entre o PIB real e o potencial. “Real Potential Gross Domestic Product”. Congressional Budget Office. Disponível em [http://research.stlouisfed.org/fred2/data/GDPPOT.txt](http://research.stlouisfed.org/fred2/data/GDPPOT.txt).
+¹ Medido em comparação entre o PIB real e o potencial. “Real Potential Gross Domestic Product”. Congressional Budget Office. Disponível em [Link](http://research.stlouisfed.org/fred2/data/GDPPOT.txt).
 
 ² “Obrigação de dívida com garantia real”, em que “garantia real”é um imóvel.
 

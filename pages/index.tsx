@@ -56,12 +56,12 @@ const Index = ({ allPosts }: Props) => {
           <meta property="og:url" content="https://lamf5.vercel.app/" />
           <meta property="og:title" content="LAMF5 | Blog" />
           <meta property="og:description" content="Blog da Liga Acadêmica de Mercado Financeiro da UFV" />
-          <meta property="og:image" content="https://lamf5.s3-sa-east-1.amazonaws.com/logo/LogoCompletoPreto.png" />
+          <meta property="og:image" content="https://lamf5.s3-sa-east-1.amazonaws.com/logo/ogimage.png" />
           <meta property="twitter:card" content="summary_large_image" />
           <meta property="twitter:url" content="https://lamf5.vercel.app/" />
           <meta property="twitter:title" content="LAMF5 | Blog" />
           <meta property="twitter:description" content="Blog da Liga Acadêmica de Mercado Financeiro da UFV" />
-          <meta property="twitter:image" content="https://lamf5.s3-sa-east-1.amazonaws.com/logo/LogoCompletoPreto.png"></meta>
+          <meta property="twitter:image" content="https://lamf5.s3-sa-east-1.amazonaws.com/logo/ogimage.png"></meta>
         </Head>
         <Container>
           <Intro />
