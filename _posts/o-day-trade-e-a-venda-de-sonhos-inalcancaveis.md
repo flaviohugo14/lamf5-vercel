@@ -30,7 +30,7 @@ comprovar a ideia de que Day Trade é uma profissão muito incerta e extremament
 propensa a riscos, professores da Fundação Getúlio Vargas (FGV) publicaram o artigo
 “É possível viver de day trading?”. Por meio deste, foi retirado o trecho:
 
-*“Por exemplo, 19.696 pessoas começaram a fazer day-trade em mini índice
+*“Por exemplo, 19.696 pessoas  começaram a fazer day-trade em mini índice
 entre 2013 e 2015; dessas, 18.138 (92,1%) desistiram, umas mais cedo, outras mais
 tarde; das 1.558 pessoas que persistiram por mais de 300 pregões, tentando de fato
 viver de day-trading, 91% tiveram prejuízo e apenas 13 pessoas obtiveram lucro
