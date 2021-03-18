@@ -4,7 +4,7 @@ excerpt: 'Com o início da aplicação das vacinas, a pandemia que despontou em 
 coverImage: '/assets/blog/FII.png'
 date: '2021-03-18T15:35:07.322Z'
 author:
-  name: Edson Nascimento
+  name: Edson Milo
   picture: '/assets/blog/authors/edson.jpeg'
 ogImage:
   url: '/assets/blog/FII.png'
