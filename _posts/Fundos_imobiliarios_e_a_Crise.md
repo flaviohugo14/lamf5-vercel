@@ -9,7 +9,7 @@ author:
 ogImage:
   url: '/assets/blog/FII.png'
 ---
-  Com o início da aplicação das vacinas, a pandemia que despontou em razão do novo coronavírus pode estar chegando ao fim. Entretanto, devido a questões técnicas da produção dos imunizantes, a vacinação da população deve demorar mais umpouco, entretanto, a semi abertura das lojas, comércios, shoppings e outros já permite um certo alívio.
+  Com o início da aplicação das vacinas, a pandemia que despontou em razão do novo coronavírus pode estar chegando ao fim. Entretanto, devido a questões técnicas da produção dos imunizantes, a vacinação da população deve demorar mais um pouco, entretanto, a semi abertura das lojas, comércios, shoppings e outros já permite um certo alívio.
 
   O ano passado foi marcado por quedas expressivas da Bolsa de Valores, logo era de se esperar que ocorreria o mesmo com os fundos imobiliários, como de fato ocorreu. Com lockdowns sendo decretados em níveis municipal e estadual, o preço dos aluguéis despencou e vários fundos chegaram a perder mais de 30% de seu faturamento, segundo o índice IFIX(Indicador de desempenho médio das cotações dos fundos imobiliários negociados nos mercados de bolsa e de balcão da B3). Os dois principais problemas enfrentados pelos fundos foram o fechamento de estabelecimentos comerciais e a inadimplência dos aluguéis. Com o passar do tempo, vários governos regionais resolveram mudar a estratégia de combate ao vírus, ou as empresas simplesmente sucumbiriam à pressão. Entretanto, o que de fato ocorreu foi uma meia abertura, “(...) o último suspiro antes do mergulho”, Gandalf, possibilitando que algumas atividades retomassem parcialmente, e o auxílio emergencial concedido pelo governo federal reduziu o desastre.
 
