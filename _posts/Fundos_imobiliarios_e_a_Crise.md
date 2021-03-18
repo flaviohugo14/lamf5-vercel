@@ -1,13 +1,13 @@
 ---
 title: 'Fundos Imobiliários e a Crise do Sars-Cov-2'
 excerpt: 'Com o início da aplicação das vacinas, a pandemia que despontou em razão do novo coronavírus pode estar chegando ao fim. Entretanto, devido a questões técnicas da produção dos imunizantes, a vacinação da população deve demorar mais um pouco, entretanto, a semi abertura das lojas, comércios, shoppings e outros já permite um certo alívio.'
-coverImage: '/assets/blog/thumbnail.png'
-date: '2020-12-22T05:35:07.322Z'
+coverImage: '/assets/blog/FII.png'
+date: '2021-03-18T15:35:07.322Z'
 author:
   name: Edson Nascimento
-  picture: 'public/assets/blog/authors/edson.jpeg'
+  picture: '/assets/blog/authors/edson.jpeg'
 ogImage:
-  url: 'public/assets/blog/FII.png'
+  url: '/assets/blog/FII.png'
 ---
 
   Com o início da aplicação das vacinas, a pandemia que despontou em razão do novo coronavírus pode estar chegando ao fim.
