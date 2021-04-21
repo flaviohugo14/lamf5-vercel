@@ -1,3 +1,4 @@
+---
 title: 'Ouro: Uma alternativa para proteção de carteira'
 excerpt: 'O ouro é o metal precioso que esteve na moda durante milênios. No antigo Egito ele já era o material favorito para a fabricação de joias e outros ornamentos, na Europa Mercantilista ele, junto da prata, era a representação da riqueza das nações, no Brasil colônia a mineração desse metal precioso foi a principal atividade econômica por mais de meio século. Mesmo depois do fim do padrão ouro, onde o ouro deixou de ser moeda e se tornou uma commodity, o valor de mercado desse metal escasso, contrariando muitos economistas famosos, subiu constantemente.'
 date: '2021-04-21T05:35:07.322Z'
@@ -7,6 +8,7 @@ author:
 ogImage:
   url: '/assets/blog/grafico.ouro.png'
 ---
+
 O ouro é o metal precioso que esteve na moda durante milênios. No antigo Egito ele já era o material favorito para a fabricação de joias e outros ornamentos, na Europa Mercantilista ele, junto da prata, era a representação da riqueza das nações, no Brasil colônia a mineração desse metal precioso foi a principal atividade econômica por mais de meio século. Mesmo depois do fim do padrão ouro, onde o ouro deixou de ser moeda e se tornou uma commodity, o valor de mercado desse metal escasso, contrariando muitos economistas famosos, subiu constantemente.
 “Quando Richard Nixon cortou o último vínculo formal com o ouro – em 1971, jogando pela janela o sistema de Bretton Woods –, a cotação da commodity disparou, chegando a mais de US$ 70 em poucos meses. Os anos seguintes foram marcados pela inflação galopante do dólar e a implacável alta no preço do ouro. Naturalmente, o metal seguiria servindo como refúgio e proteção em um mundo de papel-moeda e câmbios flutuantes.”
 O ouro pode ser avaliado de diferentes perspectivas, na visão industrial, por exemplo, ele tem valor nas suas aplicações. No entanto o que queremos do ouro é mais subjetivo do que suas aplicações, a característica que buscamos nesse ativo para nossos investimentos é a forma de reserva de valor, a impossibilidade de reproduzi-lo em laboratório. A sua oferta rígida e limitada pela própria natureza.
