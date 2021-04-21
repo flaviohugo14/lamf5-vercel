@@ -1,12 +1,13 @@
 ---
 title: 'Ouro: Uma alternativa para proteção de carteira'
 excerpt: 'O ouro é o metal precioso que esteve na moda durante milênios. No antigo Egito ele já era o material favorito para a fabricação de joias e outros ornamentos, na Europa Mercantilista ele, junto da prata, era a representação da riqueza das nações, no Brasil colônia a mineração desse metal precioso foi a principal atividade econômica por mais de meio século. Mesmo depois do fim do padrão ouro, onde o ouro deixou de ser moeda e se tornou uma commodity, o valor de mercado desse metal escasso, contrariando muitos economistas famosos, subiu constantemente.'
+coverImage: '/assets/blog/ouro.jpg'
 date: '2021-04-21T07:35:07.322Z'
 author:
   name: Breno Schiavon
   picture: '/assets/blog/breno.lamf5.jpeg'
 ogImage:
-  url: '/assets/blog/ouro.jpeg'
+  url: '/assets/blog/ouro.jpg'
   
 ---
 
