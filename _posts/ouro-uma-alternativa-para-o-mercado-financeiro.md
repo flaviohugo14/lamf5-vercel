@@ -6,7 +6,8 @@ author:
   name: Breno Schiavon
   picture: '/assets/blog/breno.lamf5.jpeg'
 ogImage:
-  url: '/assets/blog/grafico.ouro.png'
+  url: '/assets/blog/ouro.jpg'
+  
 ---
 
 O ouro é o metal precioso que esteve na moda durante milênios. No antigo Egito ele já era o material favorito para a fabricação de joias e outros ornamentos, na Europa Mercantilista ele, junto da prata, era a representação da riqueza das nações, no Brasil colônia a mineração desse metal precioso foi a principal atividade econômica por mais de meio século. Mesmo depois do fim do padrão ouro, onde o ouro deixou de ser moeda e se tornou uma commodity, o valor de mercado desse metal escasso, contrariando muitos economistas famosos, subiu constantemente.
