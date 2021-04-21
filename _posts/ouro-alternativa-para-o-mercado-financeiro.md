@@ -6,7 +6,7 @@ author:
   name: Breno Schiavon
   picture: '/assets/blog/breno.lamf5.jpeg'
 ogImage:
-  url: '/assets/blog/ouro.jpg'
+  url: '/assets/blog/ouro.jpeg'
   
 ---
 
