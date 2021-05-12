@@ -1,11 +1,11 @@
 ---
-title: 'O quê o filme *A Grande Aposta* e a empresa *GameStop* têm em comum?'
+title: 'O quê o filme "A Grande Aposta" e a empresa "GameStop" têm em comum?'
 excerpt: 'Você já ouviu falar na expressão do Mercado Financeiro *operar vendido*? Formalmente, essa estratégia é chamada de *vendas a descoberto*, e nada mais é que apostar na queda de um ativo financeiro mobiliário...'
 coverImage: '/assets/blog/wp8045370-the-big-short-wallpapers.jpg'
 date: '2021-05-10T07:35:07.322Z'
 author:
   name: Alice Másala
-  picture: '/assets/blog/authors/alice.png'
+  picture: '/assets/blog/alice.png'
 ogImage:
   url: '/assets/blog/wp8045370-the-big-short-wallpapers.jpg'
   
