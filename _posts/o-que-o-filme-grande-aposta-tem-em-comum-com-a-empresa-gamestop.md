@@ -26,7 +26,7 @@ Uma exemplificação mais fácil de entender é imaginar que você alugue uma ca
 
 Logo, é exatamente isso que equivale a operar vendido: alugar ações, vender e comprá-las para devolver para o dono, esperando que estejam mais baratas na hora da compra, sendo que vários milhões são tidos como lucro e prejuízo diariamente com operações de vendas a descoberto. 
 
-Uma das lições mais importantes que esse texto possui é não estudar somente para identificar a nova Magalu, mas para reconhecer, também, a nova Oi, IRB, Cielo e várias outras empresas que não vem mostrando bom desempenho. Mas cuidado, não atue nem como touro ou como urso sem saber o que está fazendo. Tubarões estão prontos para engolir sardinhas. Você quer entender mais sobre o que significa toda essa temida e amada fauna do Mercado Financeiro?
+Uma das lições mais importantes que esse texto possui é não estudar somente para identificar a nova Magalu, mas para reconhecer, também, a nova Oi, IRB, Cielo e várias outras empresas que não vem mostrando bom desempenho. Mas cuidado, não atue nem como touro ou como urso sem saber o que está fazendo. Tubarões estão prontos para engolir sardinhas. Você quer entender mais sobre o que significa toda essa temida e amada fauna do Mercado Financeiro? Continue acompanhando a liga para saber mais sobre o assunto!
 
 **Referências:**
 
