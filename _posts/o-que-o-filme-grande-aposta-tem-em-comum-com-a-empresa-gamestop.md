@@ -16,7 +16,7 @@ ogImage:
 
 Você já ouviu falar na expressão do Mercado Financeiro *operar vendido*? Formalmente, essa estratégia é chamada de *vendas a descoberto*, e nada mais é que apostar na queda de um ativo financeiro mobiliário.
 
-No filme *A Grande Aposta*, nome original *The Big Short*, sendo baseado em fatos reais, retrata o estouro da bolha imobiliária da bolsa americana. Na produção, alguns analistas e gestores de fundos perceberam que havia um alto índice de inadimplência no pagamento das hipotecas, e, a partir disso, apostaram na desvalorização dos títulos lastreados em hipotecas residências. 
+No filme *A Grande Aposta*, nome original *The Big Short*, sendo baseado em fatos reais, retrata o estouro da bolha imobiliária da bolsa americana. Na produção, alguns analistas e gestores de fundos perceberam que havia um alto índice de inadimplência no pagamento das hipotecas, e, a partir disso, apostaram na desvalorização dos títulos lastreados em hipotecas residênciais. 
 
 Para mais, também nos Estados Unidos, alguns fundos de investimentos apostaram alto na desvalorização do ativo da *GameStop*, empresa de jogos eletrônicos, pois o desempenho dela na bolsa não estava sendo favorável e não vinha apresentando bons resultados. O que surpreendeu a todos foi a mobilização, por parte de pequenos investidores na internet, a fim de fazer o papel da GameStop valorizar, saindo de cerca de US$ 19,00 e chegando aos US$ 380,00, deixando prejuízos bilionários a gestora *Melvin*, por exemplo. 
 
@@ -26,7 +26,7 @@ Uma exemplificação mais fácil de entender é imaginar que você alugue uma ca
 
 Logo, é exatamente isso que equivale a operar vendido: alugar ações, vender e comprá-las para devolver para o dono, esperando que estejam mais baratas na hora da compra, sendo que vários milhões são tidos como lucro e prejuízo diariamente com operações de vendas a descoberto. 
 
-Uma das lições mais importantes que esse texto possui é não estudar somente para identificar a nova Magalu, mas para reconhecer, também, a nova Oi, IRB, Cielo e várias outras empresas que não vem mostrando bom desempenho. Logo, é mais do que necessário um enorme cuidado para não atuar sem saber o que está fazendo.
+Uma das lições mais importantes que esse texto possui é não estudar somente para identificar a nova Magalu, mas para reconhecer, também, a nova Oi, IRB, Cielo e várias outras empresas que não vem mostrando bom desempenho. Mas cuidado, não atue nem como touro ou como urso sem saber o que está fazendo. Tubarões estão prontos para engolir sardinhas. Você quer entender mais sobre o que significa toda essa temida e amada fauna do Mercado Financeiro?
 
 **Referências:**
 
