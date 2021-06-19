@@ -2,7 +2,7 @@
 title: 'A Gramática dos Gráficos'
 excerpt: 'Apesar de parecer simples, não é uma tarefa fácil resumir o trabalho de um mês inteiro em gráficos que chamam a atenção do seu público e que mostram da forma mais clara possível o que aconteceu.'
 coverImage: '/assets/blog/grammar.jpg'
-date: '2020-10-13T05:35:07.322Z'
+date: '2021-06-19T05:35:07.322Z'
 author:
   name: Flávio Pangrácio
   picture: '/assets/blog/authors/fh.png'
@@ -39,8 +39,6 @@ Não subestime o poder das escalas, escalas mal definidas podem confundir a aná
 ### Facets
 
 A camada *Facets* é muito boa para quando precisamos visualizar muitos gráficos ou tem muita informação num mesmo gráfico. Podemos particionar o gráfico e dividir a visualização em porções menores, lado a lado.
-
-![Facets]("/public/assets/blog/facets.png")
 
 ### Estatística
 
