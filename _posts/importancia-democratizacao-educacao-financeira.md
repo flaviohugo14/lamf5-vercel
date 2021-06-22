@@ -10,7 +10,7 @@ ogImage:
   url: '/assets/blog/democratizaçao-financeira.jpg'
   
 ---
-* A importância da democratizar a educação financeira dentro da Bolsa de Valores para a população brasileira.
+* A importância de democratizar a educação financeira, especialmente dentro da Bolsa de Valores para a população do Brasil.
 
 * Qual a imagem de um(a) investidor(a)?
 
