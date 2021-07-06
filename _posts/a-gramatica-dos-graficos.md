@@ -2,7 +2,7 @@
 title: 'A Gramática dos Gráficos'
 excerpt: 'Apesar de parecer simples, não é uma tarefa fácil resumir o trabalho de um mês inteiro em gráficos que chamam a atenção do seu público e que mostram da forma mais clara possível o que aconteceu.'
 coverImage: '/assets/blog/grammar.jpg'
-date: '2021-06-19T05:35:07.322Z'
+date: '2021-07-05T05:35:07.322Z'
 author:
   name: Flávio Pangrácio
   picture: '/assets/blog/authors/fh.png'
