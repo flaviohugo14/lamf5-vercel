@@ -1,13 +1,13 @@
 ---
 title: 'Alta da SELIC: Como ficam os Fundos Imobiliários?'
 excerpt: 'A priori, o atual cenário da economia mundial é de turbulência, considerando que nenhum país saiu ileso dos efeitos da Covid 19. E o Brasil, que além da crise sanitária, vive constantemente em crises políticas e institucionais, vê sua economia encolhendo com fatores nada favoráveis, seja em relação a queda do PIB, alta da inflação ou a taxa Selic.'
-coverImage: '/assets/blog/ifix.jpeg' 
+coverImage: '/assets/blog/ifix.png' 
 date: '2020-12-22T05:35:07.322Z'
 author:
   name: Fábio Reis
   picture: '/assets/blog/authors/Screenshot_20211006-205138.png'
 ogImage:
-  url: '/assets/blog/ifix.jpeg'
+  url: '/assets/blog/ifix.png'
 ---
 	
   A priori, o atual cenário da economia mundial é de turbulência, considerando que nenhum país saiu ileso dos efeitos da Covid 19. E o Brasil, que além da crise sanitária, vive constantemente em crises políticas e institucionais, vê sua economia encolhendo com fatores nada favoráveis, seja em relação a queda do PIB, alta da inflação ou a taxa Selic. Após atingir a menor taxa Selic depois de anos seguidos de alta, o Banco Central do Brasil (Bacen) vê o crescimento da taxa como um indicativo de que a economia não caminha bem. A partir disso, a taxa citada tem grande influência nos investimentos realizados no mercado financeiro. Pretende-se mostrar a relação entre Selic e a renda variável, mais especificamente os Fundos de Investimentos Imobiliários.
