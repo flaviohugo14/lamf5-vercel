@@ -5,7 +5,7 @@ coverImage: '/assets/blog/FII.png'
 date: '2020-12-22T05:35:07.322Z'
 author:
   name: Fábio Reis
-  picture: '/assets/blog/authors/edson.jpeg'
+  picture: '/assets/blog/authors/Screenshot_20211006-205138.png'
 ogImage:
   url: '/assets/blog/FII.png'
 ---
