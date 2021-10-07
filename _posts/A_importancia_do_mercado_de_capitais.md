@@ -19,7 +19,7 @@ Logo, ao decidir aplicar sua poupança em capital produtivo, os investidores (in
 
 Portanto, um acúmulo de capital, não só para os seus detentores e sócios, mas para a sociedade, gera a atividade econômica, com recursos para mais investimentos, desenvolvendo as companhias e o país. Não existe país desenvolvido sem grandes empresas, e grandes empresas passam pela Bolsa de Valores.
 
-###Referências:
+### Referências:
 
 * https://www.juscatarina.com.br/2019/07/16/ana-paula-oberparleiter-a-importancia-do-mercado-de-capitais-para-a-economia/
 
