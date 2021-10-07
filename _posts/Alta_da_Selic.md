@@ -20,7 +20,7 @@ Portanto, a relação entre a taxa Selic e o Índice de Fundos de Investimentos 
  
 Isto posto, a pergunta que ecoa na cabeça de muitos investidores nesse momento é se ainda vale a pena investir em FIIs. Especialistas apontam que não há motivos para desespero nem para que haja uma debandada dos investimentos em renda variável, principalmente os FIIs que sofrem menos impacto do que ações de empresas em construção. Outro fator que justifica que pode não haver uma debandada dos fundos imobiliários, é o fato de que a demanda por dividendos é o principal atrativo dos fundos, somados é claro a uma menor volatilidade em relação a outros ativos, como por exemplo, ações. Por fim, o que é unanime entre especialistas é que devemos nos atentar a inflação e juros de longo prazo antes de tomar qualquer decisão sobre investimentos.
 
-###Fontes:
+### Referências:
 
 - https://riconnect.rico.com.vc/insight/fundos-imobiliarios-alta-da-selic-o-que-esperar-e-como-agir
 
