@@ -2,7 +2,7 @@
 title: 'Alta da SELIC: Como ficam os Fundos Imobiliários?'
 excerpt: 'A priori, o atual cenário da economia mundial é de turbulência, considerando que nenhum país saiu ileso dos efeitos da Covid 19. E o Brasil, que além da crise sanitária, vive constantemente em crises políticas e institucionais, vê sua economia encolhendo com fatores nada favoráveis, seja em relação a queda do PIB, alta da inflação ou a taxa Selic.'
 coverImage: '/assets/blog/ifix.png' 
-date: '2020-12-22T05:35:07.322Z'
+date: ''
 author:
   name: Fábio Reis
   picture: '/assets/blog/authors/Screenshot_20211006-205138.png'
