@@ -5,7 +5,7 @@ coverImage: '/assets/blog/aluguel.jpg'
 date: '2021-11-06T10:35:07.322Z'
 author:
   name: Lucas Andrade
-  picture: '/assets/blog/authors/lucas.png'
+  picture: '/assets/blog/authors/lucas.PNG'
 ogImage:
   url: '/assets/blog/aluguel.jpg'
 ---
