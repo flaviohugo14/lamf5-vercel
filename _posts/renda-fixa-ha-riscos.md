@@ -25,10 +25,10 @@ Nota-se que, a renda fixa, apesar de baixos, possui riscos e que o investidor de
 ### Referências:
 
 FUNDAÇÃO GETULIO VARGAS. FGV ONLINE. Como Fazer Investimentos l. Rio de Janeiro, 2020.
-https://einvestidor.estadao.com.br/investimentos/cuidado-voce-tambem-pode-perder-dinheiro- na-renda-fixa
+https://einvestidor.estadao.com.br/investimentos/cuidado-voce-tambem-pode-perder-dinheiro-na-renda-fixa
  
-https://valorinveste.globo.com/produtos/renda-fixa/noticia/2019/04/19/quais-os-riscos-de- aplicar-na-renda-fixa.ghtml
+https://valorinveste.globo.com/produtos/renda-fixa/noticia/2019/04/19/quais-os-riscos-de-aplicar-na-renda-fixa.ghtml
  
-https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/voce-sabia-que-renda-fixa-tambem- tem-risco/
+https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/voce-sabia-que-renda-fixa-tambem-tem-risco/
 
 
