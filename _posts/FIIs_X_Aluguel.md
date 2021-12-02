@@ -5,7 +5,7 @@ coverImage: '/assets/blog/fundosimobiliarios-1000x600.jpg'
 date: '2021-12-02T10:35:07.322Z'
 author:
   name: João Pedro Torres
-  picture: '/assets/blog/authors/kdouh.PNG'
+  picture: '/assets/blog/kdouh.PNG'
 ogImage:
   url: '/assets/blog/fundosimobiliarios-1000x600.jpg'
 ---
