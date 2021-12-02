@@ -1,3 +1,4 @@
+---
 title: 'Fundos imobiliários X Aluguel de imóveis'
 excerpt: 'Qual será o melhor investimento: imóveis ou fundos imobiliários? Para responder a tal pergunta, deve-se estabelecer, primeiramente, os conceitos básicos e uma breve retomada histórica em relação à mentalidade dos indivíduos pela busca de investimentos em tijolo (aluguel de imóveis).'
 coverImage: '/assets/blog/fundosimobiliarios-1000x600.jpg' 
